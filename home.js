@@ -151,7 +151,7 @@ console.log(emptyArray);
 let someObjects = {
     first:"anil",
     last:"venkat",
-    age:20,
+    age:20;
     studentInfo:function(){
         return this.first + '\n'+ this.last;34
     
