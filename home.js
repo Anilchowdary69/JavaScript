@@ -145,7 +145,7 @@ for (let num =0;num<10;num++){
 console.log(emptyArray);
 
 
-
+ 
 //objects
 //objects also known as dictionary in python
 let someObjects = {
